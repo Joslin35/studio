@@ -3,7 +3,7 @@ import './globals.css';
 import { AppShell } from '@/components/app-shell';
 
 export const metadata: Metadata = {
-  title: 'EcoGenius',
+  title: 'GreenAI',
   description: 'AI-powered eco-friendly suggestions and tracking.',
 };
 

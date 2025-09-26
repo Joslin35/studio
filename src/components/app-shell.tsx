@@ -21,7 +21,7 @@ export function AppShell({ children }: PropsWithChildren) {
             <div className="flex size-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
               <Leaf className="size-5" />
             </div>
-            <h1 className="text-xl font-semibold font-headline text-primary">EcoGenius</h1>
+            <h1 className="text-xl font-semibold font-headline text-primary">GreenAI</h1>
           </div>
         </SidebarHeader>
         <SidebarContent>

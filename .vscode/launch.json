@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Next.js: Chrome (localhost:9002)",
+      "type": "pwa-chrome",
+      "request": "launch",
+      "url": "http://localhost:9002",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "Run Next.js dev server"
+    }
+  ]
+}
